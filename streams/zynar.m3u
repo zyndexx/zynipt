@@ -40,17 +40,17 @@ https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary;Education",Asharq Discovery
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary; Education",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj" group-title="Documentary",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="Business;News",Asharq News
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="Business; News",Asharq News
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News North America
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation; Kids",Cartoon Network
 http://92.114.85.72:8000/play/a07h
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="Business",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
@@ -145,7 +145,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvlister.com
 #EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/6qSyDqD4/MBC-Masr-Logo.png", MBC Masr 1 (Backup) HD
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8?checkedby:iptvlister.com
-#EXTINF:-1 tvg-country="EG" group-title="MBC أم بي سي" group-title="Backup" tvg-logo="https://i.imgur.com/KHo7Gtn.png", MBC Masr 2 (Backup) HD
+#EXTINF:-1 tvg-country="EG" group-title="MBC أم بي سي" tvg-logo="https://i.imgur.com/KHo7Gtn.png", MBC Masr 2 (Backup) HD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvlister.com
-#EXTINF:-1 tvg-country="AE" group-title="MBC أم بي سي" group-title="Kids" tvg-logo="https://i.postimg.cc/pr1FRqnT/MBC-3-Transparent-Background-Logo-min.png", MBC 3 KSA HD (Backup)
+#EXTINF:-1 tvg-country="AE" group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/pr1FRqnT/MBC-3-Transparent-Background-Logo-min.png", MBC 3 KSA HD (Backup)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvlister.com
