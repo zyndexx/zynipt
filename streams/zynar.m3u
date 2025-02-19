@@ -3,7 +3,7 @@
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Alarabiya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="",Al Arabiya Programs
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="News",Al Arabiya Programs
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Al Araby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
@@ -58,9 +58,9 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="General",DR1
+#EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="DK",DR1
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
-#EXTINF:-1 tvg-id="DR2.dk" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="Culture",DR2
+#EXTINF:-1 tvg-id="DR2.dk" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="DK",DR2
 https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
 #EXTINF:-1 tvg-id="DRTV.dk" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" group-title="General",DRTV
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
@@ -78,7 +78,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC أم بي سي",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي" group-title="Kids",MBC 3
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",MBC 4
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
@@ -92,9 +92,9 @@ https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41e
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC أم بي سي",MBC+ Drama
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/Kj41qBsy/png-clipart-mbc2-logo-film-cuevana-others-television-text-min.png", MBC 2 HD
+#EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.imgur.com/n9mSHuP.png", MBC 2 HD
 http://154.58.202.185:8000/play/a049?checkedby:iptvlister.com
-#EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/Kj41qBsy/png-clipart-mbc2-logo-film-cuevana-others-television-text-min.png", MBC 2 (Backup) HD
+#EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.imgur.com/n9mSHuP.png", MBC 2 (Backup) HD
 http://154.197.91.168:7003/play/a0fh?checkedby:iptvlister.com
 #EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.imgur.com/D0LxiPE.png", MBC Iraq HD (Backup)
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvlister.com
@@ -119,13 +119,13 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="Series",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/0wxwMjs.png" group-title="",Rotana Aflam+ HD
+#EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/0wxwMjs.png" group-title="Movies",Rotana Aflam+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Movies",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="SensesTV.lb" tvg-logo="https://i.imgur.com/hnTx8eK.png" group-title="",Senses TV
+#EXTINF:-1 tvg-id="SensesTV.lb" tvg-logo="https://i.imgur.com/hnTx8eK.png" group-title="General",Senses TV
 https://sensestv.com:4433/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -145,7 +145,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvlister.com
 #EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/6qSyDqD4/MBC-Masr-Logo.png", MBC Masr 1 (Backup) HD
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8?checkedby:iptvlister.com
-#EXTINF:-1 tvg-country="EG" group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/1XzqkLX2/KHo7Gtn.png", MBC Masr 2 (Backup) HD
+#EXTINF:-1 tvg-country="EG" group-title="MBC أم بي سي" tvg-logo="https://i.imgur.com/KHo7Gtn.png", MBC Masr 2 (Backup) HD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvlister.com
-#EXTINF:-1 tvg-country="AE" group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/pr1FRqnT/MBC-3-Transparent-Background-Logo-min.png" MBC 3 KSA HD (Backup)
+#EXTINF:-1 tvg-country="AE" group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/pr1FRqnT/MBC-3-Transparent-Background-Logo-min.png", MBC 3 KSA HD (Backup)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvlister.com
