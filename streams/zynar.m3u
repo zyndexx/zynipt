@@ -145,7 +145,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvlister.com
 #EXTINF:-1 group-title="MBC أم بي سي" tvg-logo="https://i.postimg.cc/6qSyDqD4/MBC-Masr-Logo.png", MBC Masr 1 (Backup) HD
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8?checkedby:iptvlister.com
-#EXTINF:-1 tvg-country="EG" group-title="MBC أم بي سي" tvg-logo="https://i.imgur.com/KHo7Gtn.png", MBC Masr 2 (Backup) HD
+#EXTINF:-1 tvg-country="EG" group-title="MBC أم بي سي" group-title="Backup" tvg-logo="https://i.imgur.com/KHo7Gtn.png", MBC Masr 2 (Backup) HD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvlister.com
 #EXTINF:-1 tvg-country="AE" group-title="MBC أم بي سي" group-title="Kids" tvg-logo="https://i.postimg.cc/pr1FRqnT/MBC-3-Transparent-Background-Logo-min.png", MBC 3 KSA HD (Backup)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvlister.com
